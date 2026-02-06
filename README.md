@@ -4,7 +4,7 @@
 
 The Volecom Dealer API provides programmatic access to manage TikTok and Facebook advertising accounts. This RESTful API uses API key authentication and returns JSON responses.
 
-**Base URL:** `https://your-domain.com/api/dealer`
+**Base URL:** `https://my.volecom.com/api/dealer`
 
 **Authentication:** All endpoints require an API key passed via the `X-API-Key` header.
 
