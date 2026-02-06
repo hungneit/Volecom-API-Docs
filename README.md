@@ -1,4 +1,4 @@
-# Volecom Dealer API Documentation
+# Volecom API Documentation
 
 ## Overview
 
@@ -525,7 +525,7 @@ or
 ## Support
 
 For technical support or questions about the API:
-- **Email:** volecomagency@gmail.com
+- **Email:** hungneit@gmail.com
 - **Documentation Updates:** Check this document regularly for updates
 
 ---
